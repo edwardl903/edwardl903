@@ -4,7 +4,7 @@
 
 ---
 
-🔭 I’m currently wrapping up my senior year at Tufts University, double-majoring in Computer Science & Human Factors Engineering and graduating May 2025.  
+🔭 I graduated from Tufts University, double-majoring in Computer Science & Human Factors Engineering.  
 🌟 Passionate about turning raw data into clear insights, building recommendation systems, and visualizing complex information for stakeholders.  
 🎯 Seeking full-time Data Analyst roles where I can help organizations make data-driven decisions and optimize their processes.
 
