@@ -1,81 +1,78 @@
-# Edward Lai 👋
+# Edward Lai
 
-**Data Analyst | Machine Learning Enthusiast | Chess Lover**
-
----
-
-🔭 I graduated from Tufts University, double-majoring in Computer Science & Human Factors Engineering.  
-🌟 Passionate about turning raw data into clear insights, building recommendation systems, and visualizing complex information for stakeholders.  
-🎯 Seeking full-time Data Analyst roles where I can help organizations make data-driven decisions and optimize their processes.
+**Data Engineer | Data Analyst | ML Enthusiast**
 
 ---
 
-## 📊 Skills & Tools
-
-- **Data Analysis & Visualization:**  
-  Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, BigQuery/GoogleSQL), Looker Studio  
-- **Machine Learning:**  
-  Scikit-learn, Surprise (SVD++, SVD), Random Forests, Gradient Boosting, Neural Collaborative Filtering  
-- **Databases & Big Data:**  
-  MongoDB & JSON Schema, relational design & normalization, scheduled queries & dashboards  
-- **Dev & Collaboration:**  
-  Git, GitHub Actions, Docker, Google Cloud Platform  
-- **Soft Skills:**  
-  Communicating insights to non-technical stakeholders, cross-functional teamwork, mentoring peers
+I'm a Tufts University graduate with a double major in Computer Science & Human Factors Engineering, passionate about building scalable data solutions and turning complex insights into actionable business value. I love working across the full data stack—from ETL pipelines and cloud infrastructure to machine learning models and interactive dashboards.
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### **ChessLytics**  
-A chess analytics dashboard that visualizes your game history, performance trends, and personalized “Chess Wrapped” year-in-review.  
-- Built Python backend to parse PGN data and compute performance metrics  
-- Deployed interactive front-end with React and Chart.js  
-- Implemented scheduled data pulls and email summaries for users
+### **ChessLytics** - End-to-End Analytics Platform
+Built a production-ready chess analytics platform processing 100,000+ games with personalized insights and automated dashboards.
+- **Tech Stack:** Python, Flask, BigQuery, Looker Studio, GCP, Heroku
+- **Impact:** Live platform at chesslytics.xyz with real-time game analysis
+- **Key Features:** Automated data pipelines, personalized "Chess Wrapped" reports, interactive visualizations
 
-### **MovieLens Recommender**  
-Developed and tuned collaborative-filtering models to minimize MAE on MovieLens data.  
-- Explored SVD++, XGBoost, and Neural Collaborative Filtering  
-- Automated hyperparameter search with RandomizedSearchCV  
-- Generated trace plots and leaderboard comparisons
+### **SpotiFriend** - Cloud-Based Music Analytics
+Developed an automated AWS data pipeline for Spotify listening behavior analysis across 10,000+ tracks.
+- **Tech Stack:** Python, AWS (S3, Lambda, Glue, Athena, QuickSight), Spotify API
+- **Architecture:** Serverless ETL with real-time analytics and automated reporting
+- **Scale:** Processes millions of listening events with cloud-native infrastructure
 
-### **Pison Internship Analytics**  
-Analyzed user session data to identify signal-quality issues across devices.  
-- Wrote BigQuery SQL to extract and aggregate millions of event records  
-- Built Looker Studio dashboards for ops teams, including scheduled reports  
-- Recommended optimizations that reduced error-rate by 15%
+### **MovieLens Recommender** - ML Recommendation System
+Built collaborative filtering models achieving optimized MAE on MovieLens dataset with millions of ratings.
+- **Algorithms:** SVD++, XGBoost, Neural Collaborative Filtering
+- **Optimization:** Automated hyperparameter tuning with RandomizedSearchCV
+- **Performance:** Comprehensive model comparison with trace plots and leaderboards
 
-### **Fidelity Investments Capstone**  
-Project intern on product-analysis team.  
-- Processed large datasets to uncover usage patterns  
-- Delivered stakeholder-ready visualizations and slide decks  
-
----
-
-## 🎓 Education
-
-**Tufts University**, Medford, MA  
-*B.S. in Computer Science & Human Factors Engineering*  
-Expected May 2025
-
-**Relevant Coursework:** Machine Learning, Database Systems, Programming Languages, Algorithms, Behavioral Statistics
+### **Fidelity Investments** - User Behavior Analytics
+Led comprehensive user behavior analysis for PB Optimize platform, delivering actionable insights to product teams.
+- **Tools:** Google Looker, Power BI, SQL, Python, Figma
+- **Deliverables:** Interactive dashboards, user flow analysis, feature optimization recommendations
+- **Impact:** Data-driven product decisions and improved user experience
 
 ---
 
-## 📫 Let’s Connect
+## Technical Skills
+
+**Data Engineering:** Python, SQL, BigQuery, AWS, Azure, GCP, Databricks, PySpark, ETL/ELT  
+**Analytics & ML:** Pandas, Scikit-learn, Collaborative Filtering, Statistical Analysis, R  
+**Cloud & DevOps:** Docker, Git, GitHub Actions, CI/CD, Serverless Architecture  
+**Visualization:** Looker Studio, Power BI, Tableau, Matplotlib, Seaborn  
+**Databases:** PostgreSQL, MySQL, MongoDB, Delta Lake, Data Warehousing  
+
+---
+
+## Education & Experience
+
+**Tufts University** - B.S. Computer Science & Human Factors Engineering (2025)  
+**Research Experience:** Published EEG research on neural signatures in cognitive tasks  
+**Leadership:** Co-President, Tufts Chess Club  
+
+**Recent Experience:**
+- **Data Analyst** @ Fidelity Investments - User behavior analysis & product optimization
+- **Data Operations Intern** @ Pison Technology - ETL tools & automation
+- **Research Assistant** @ Tufts HCI Lab - EEG data analysis & ML modeling
+
+---
+
+## Let's Connect
 
 - **Email:** edward.lai@tufts.edu  
 - **LinkedIn:** [linkedin.com/in/edwardl903](https://linkedin.com/in/edwardl903)  
-- **Portfolio:** [edwardl903.github.io](https://edwardl903.github.io)  
+- **Portfolio:** [edwardl903.github.io](https://edward-lai.com)  
 
 ---
 
 <details>
-<summary>✨ A little about me</summary>
+<summary>A little about me</summary>
 
-- Co-President of the Tufts Chess Club ♟️  
-- Amateur pianist—always composing something new 🎹  
-- Coffee aficionado ☕  
-- Always up for a data challenge or a game of blitz chess!
+- Co-President of the Tufts Chess Club  
+- Amateur pianist—always composing something new  
+- Pickleball Addict
+- Always up for a data challenge or a game of bullet chess!
 
 </details>
